@@ -29,7 +29,7 @@ header h1 {
 
 header:before {
     content:"";
-    border-top: solid 2px black;
+    border-top: solid 2px #C8C8C8;
     width: 35vw;
     position: absolute;
     top: 17%;
